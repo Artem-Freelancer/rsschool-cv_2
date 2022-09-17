@@ -8,9 +8,9 @@
 * Github: https://github.com/Artem-Freelancer
 * Location: Russia, city Orel, st. Karachevskoe highway, 56a
 ## Education:
-1. Municipal Budgetary Gymnasium No. 34 (2007-2015)
-2. Petersburg State University of Railways and Communication (2015-2020)
-3. The Rolling Scopes School (2022)
+* Municipal Budgetary Gymnasium No. 34 (2007-2015)
+* Petersburg State University of Railways and Communication (2015-2020)
+* The Rolling Scopes School (2022)
 ## Code:
 ```
 var ArrowFunc = function(arr) {
@@ -26,9 +26,9 @@ for(var i=0; i < n; i++)
 }
 ```
 ## Courses:
-1. [Freelancer for life - HTML+CSS+JS](https://www.youtube.com/watch?v=yJcCKuxfb2o)
-2. [Beonmax - Java scripts](https://beonmax.com/courses/javascript/)
-3. [The Rolling Scopes School - Stage #0(HTML+CSS+JS)](https://rs.school/js/)
+* [Freelancer for life - HTML+CSS+JS](https://www.youtube.com/watch?v=yJcCKuxfb2o)
+* [Beonmax - Java scripts](https://beonmax.com/courses/javascript/)
+* [The Rolling Scopes School - Stage #0(HTML+CSS+JS)](https://rs.school/js/)
 ## Languages:
 * Languages - English at level A2
 * Deutsch - German level A1
