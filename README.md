@@ -1,1 +1,1 @@
-# rsschool-cv_2
+https://artem-freelancer.github.io/rsschool-cv_2/cv
